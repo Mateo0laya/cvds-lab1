@@ -1,5 +1,9 @@
 ----------------------- feerratas.txt -------------------
 FE DE ERRATAS
 
+<<<<<<< HEAD
 * El termino de la pagina (por lo general) 15 es impreciso.
+=======
+* El tErmino de la pagima por lo general 15 es impreSiso.
+>>>>>>> f0f2a5663d0017250a14f7b9b88249240a54f40b
 ---------------------------------------------------------
