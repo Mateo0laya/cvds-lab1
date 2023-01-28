@@ -19,6 +19,9 @@ Puedes conocer mas sobre mi en [Mateo Olaya](https://co.linkedin.com/in/mateo-ol
   ![tlou](https://static.wikia.nocookie.net/thelastofus/images/f/fe/Portada_Parte_I_limpia.jpeg/revision/latest?cb=20211209015400&path-prefix=es)
 
 ### Calculadora en python
+Python es mi lenguaje d eprogramacion favorito, por eso quieor compartir un pequeño fragmento de codigo de como hacer una calculadora en python
+
+
 ```
 def main():
   a = input("Ingresa el primer numero")
