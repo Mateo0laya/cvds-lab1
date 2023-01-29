@@ -39,12 +39,9 @@ Tomado de [¿Para qué sirve en realidad una computadora cuántica?](https://www
 
 #### Algoritmos de Factorización
 
-Los números RSA son un conjunto de semiprimos (números con exactamente dos
-factores primos) grandes que son parte de la competición de factorización RSA. La
-competición consistía en encontrar factores primos, pero en 2007 se declaró
-inactiva. Fue creada por el laboratorio RSA en marzo de 1991 para fomentar la
-investigación en la teoría de números computacional y la dificultad de factorizar
-números enteros grandes.
+Los números RSA son un conjunto de semiprimos (números con exactamente dos factores primos) grandes que son parte de la competición de factorización RSA. La
+competición consistía en encontrar factores primos, pero en 2007 se declaró inactiva. Fue creada por el laboratorio RSA en marzo de 1991 para fomentar la
+investigación en la teoría de números computacional y la dificultad de factorizar números enteros grandes.
 
 ##### Método de Fermat
 
