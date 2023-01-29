@@ -28,5 +28,6 @@ _De entre 135 equipos de tres elegidos de un campo de 52,709 concursantes de 3,2
 
 Tomado de [ICPC World Champion Hall of Fame](https://icpc.global/community/world-finals-champions)
 
-
+---
+### Computación Cuantica
 
