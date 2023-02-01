@@ -86,7 +86,8 @@ main()
 
 ## PARTE III LABORATORIO. - GIT BRANCHING
 
-![image](https://user-images.githubusercontent.com/63562181/215934708-4a00d642-3a59-4b47-b95e-c16935bc585b.png)
+![image](https://user-images.githubusercontent.com/63562181/215934847-f1f70527-e063-4543-8b90-e40833a8cf3d.png)
+
 
 
 
