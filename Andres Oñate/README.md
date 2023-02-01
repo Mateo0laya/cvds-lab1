@@ -80,3 +80,13 @@ def main():
     
 main()
 
+```
+
+---
+
+## PARTE III LABORATORIO. - GIT BRANCHING
+
+![image](https://user-images.githubusercontent.com/63562181/215934708-4a00d642-3a59-4b47-b95e-c16935bc585b.png)
+
+
+
