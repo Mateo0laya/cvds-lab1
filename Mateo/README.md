@@ -34,5 +34,7 @@ def main():
 ## Learn Git Branching
 
 ### Principal
+[Principal](https://user-images.githubusercontent.com/89365336/216749993-858b17e7-dd85-46bc-8eb1-7bce658464b9.png)
 
 ### Remoto
+![Remoto](https://user-images.githubusercontent.com/89365336/216750002-1c6fb45a-0994-46c8-b955-af2a6fb1d3bc.png)
