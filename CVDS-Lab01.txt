@@ -1,0 +1,10 @@
+PARTE I. - CREANDO REPOSITORIOS
+
+¿Las dos parejas lo pudieron hacer?,¿Qué quedó al final en la
+versión oficial?
+
+Ambos miembros del equipo pudimos realizar commit y push al repositorio. Sin embargo en el archivo final se encuentra una mezcla de dos archivos similares cada uno con los cambios que cada miembro del equipo realizo. Adicional a ello al final del archivo se incluyo un codigo aparentemente de error que indica conflicto durante el proceso de realizar commit y push. Esto para que finalmente el equipo tome una decision respecto a que desea hacer con el archivo y que cambios desea mantener.
+
+Usando elcomando gitk,¿Qué diferencia hay ahora en el historial de cambios en el repositorio?
+
+Primero vemos el historial del repositorio donde se puede ver que creamos los dos .txt, a la hora de realizar los commit´s y push´s se crean dos branches o ramas, que posteriormente se unen a la hora de realizar push, si damos click al punto donde se unen las ramas podemos ver el archivo final que es una mezcla de los cambios realizados y un codigo de error que indica conflictos durante el push al archivo.
